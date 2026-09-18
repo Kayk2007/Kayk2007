@@ -1,16 +1,21 @@
-## Hi there 👋
+## Quem Sou Eu
+- Estudante de Ciências da Computação
+- Atuando Como estágiario de Dados no Banco Itaú
+- Atualmente aprofundando conhecimento em Python;SQL
+ 
+## Tecnologias e Ferramentas
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
 
-<!--
-**Kayk2007/Kayk2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Meu Roadmap (Próximos 6 meses)
+- [x] Entender o contexto da área que eu trabalho
+- [x] Estudar e melhorar meus conhecimentos em Python, Sql, AWS
+- [x] Melhorar meu nível de inglês
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em Destaque
+|Em Breve |
+
+## Como Falar Comigo
+- [Linkedin](linkedin.com/in/kayk-yuri-aa3849396)
+- kaykyuri2007@gmail.com
